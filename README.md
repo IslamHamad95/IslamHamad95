@@ -1,11 +1,16 @@
 ## WHO AM I?
-An ambitious Computer Engineer who is looking forward to working in web development in a leading company or institution, where I can learn and develop more sense of the field in order to put my knowledge and skills into practice. I have hands on experience in multiple programming languages with solid knowledge in Software Systems. 
+An ambitious Computer Engineer who is looking forward to working in software development in a leading company or institution, where I can learn and develop more sense of the field in order to put my knowledge and skills into practice. I have hands on experience in multiple programming languages with solid knowledge in Software Systems. 
 
 
 ## OPPORTUNITIES I AM CURRENTLY INTERESTED IN:
 * Internships
 * Junior level vacancies
 * Freelance gigs. 
+
+## FIELDS I AM CURRENTLY INTERESTED IN:
+* Front-End Web development
+* Back-End Web development
+* DevOps
 
 ## FAMILIAR LANGUAGES & FRAMEWOKRS:
 * JavaScript (React- Node.js).
