@@ -16,7 +16,7 @@ An ambitious Computer Engineer who is looking forward to working in software dev
 * PHP (Laravel).
 
 ## THINGS I WANT TO LEARN IN THE FUTURE:
-* Game development
+* Game Development
 
 ## PERSONAL WEBSITES & SOCIAL MEDIA:
 * Linkedin: https://www.linkedin.com/in/islam-hussein-18b927166/
